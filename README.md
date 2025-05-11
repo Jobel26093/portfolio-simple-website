@@ -1,4 +1,4 @@
-# portfolio-simple-website
+# My Portfolio Website
 Welcome to My Portfolio Website  This website is a simple and professional showcase designed to introduce who I am and how you can get in touch
 
 This is a simple, two-page portfolio website developed using HTML and basic CSS. It highlights both design clarity and clean structure:
